@@ -2,7 +2,7 @@
 ### Challenge "Exercício 02"
 
 ![Badge](https://img.shields.io/badge/version-1.0-green)
-![Badge](https://img.shields.io/badge/status-Development-yellow)
+![Badge](https://img.shields.io/badge/status-Done!-informational)
 
 ### This is a challenge by Rocketseat hosted in:
 https://efficient-sloth-d85.notion.site/Exerc-cio-02-41080263d073491a908e37c6e4145361
